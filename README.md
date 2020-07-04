@@ -35,9 +35,17 @@ issue会详细列出题目和答案。issue有两种状态：
 
 ## 互助群
 
+加群（1134403647）方式如下：
+
+#### 方式1：PC端直接点击下面链接
+
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=83fe220bb200efc58e758f80fbfc7a4779de0a96677a8fe5916e6d44a4decb74"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java安可认证阶段考试/J" title="Java安可认证阶段考试/J"></a>
 
- 
+
+#### 方式2：手机端扫下面二维码
+
+![](images/qq.jpg)
+
 ## 联系作者
 
 您也可以直接联系我：
