@@ -1,6 +1,6 @@
 # Java Trusted Coding Exam. Java安可认证阶段考试/Java可信编码实现/Java面试题库
 
-这是一个关于Java编程的题库，可用于安可认证阶段考试、可信编码实现、Java面试等。所有的题目都归档到了[Issues](/issues)中。
+这是一个关于Java编程的题库，可用于安可认证阶段考试、可信编码实现、Java面试等。所有的题目都归档到了<https://github.com/waylau/java-trusted-coding-exam/issues>中。
 
 ## 如何搜题
 
@@ -24,7 +24,7 @@ issue会详细列出题目和答案。issue有两种状态：
 
 ## 如何补充题库
 
-补充题库，就是在[Issues](/issues)中创建一个新的issue。
+补充题库，就是在<https://github.com/waylau/java-trusted-coding-exam/issues>中创建一个新的issue。
 
 添加前最好先搜索下，是否已经有人提了类似的问题。如果是，请不要重复提交。
 
