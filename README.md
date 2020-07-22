@@ -6,6 +6,8 @@ Java安可认证阶段考试包括：
 
 * [Java安可认证阶段考试——可信编码实现](https://github.com/waylau/java-trusted-coding-exam)
 * [Java安可认证阶段考试——开发者测试](https://github.com/waylau/java-trusted-testing-exam)
+* [Java安可认证阶段考试——可信代码重构](https://github.com/waylau/java-trusted-code-refactoring-exam)
+
 
 ## 如何搜题
 
